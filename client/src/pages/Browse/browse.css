@@ -1,0 +1,26 @@
+h1{
+   border-bottom: 1px solid black;
+}
+
+ #sec-form{
+    background-color: rgb(219, 203, 203);
+    border-radius: 10px;
+
+}
+
+
+ #sec-form input{
+    border-radius: 10px;
+    height: 50px;
+}
+
+#cards .card{
+    border: 1px solid black;
+    border-radius:10px ;
+    
+}
+
+#cards .card .card-body #p-h{
+    
+    margin-bottom: 15px;
+}

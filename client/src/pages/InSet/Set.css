@@ -1,0 +1,29 @@
+#head-card{
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+
+#div-h3{
+    border-bottom: 2px solid black;
+}
+
+#btns div {
+    height: 55px;
+}
+
+#btns button {
+    border-radius: 10px;
+}
+
+#div-form input{
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#card{
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}

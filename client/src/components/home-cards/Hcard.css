@@ -1,0 +1,17 @@
+#cards{
+    padding: 80px 0px;
+}
+
+#cards .card{
+    border: 1px solid black;
+    border-radius:10px ;
+}
+
+#cards .card .card-body #p-h{
+    border-bottom: 1px solid rgb(206, 191, 191);
+    margin-bottom: 15px;
+}
+
+#btn-creat-set{
+    font-size: 20px;
+}
