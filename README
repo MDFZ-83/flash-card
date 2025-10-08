@@ -1,0 +1,40 @@
+##  Flash Card  
+
+A Smart Vocabulary Learning App
+
+A simple and interactive Flash Card web application designed to help users memorize vocabulary more efficiently.  
+Users can create, view, and practice flash cards to improve their learning experience.
+
+---
+
+##  Tech Stack
+
+- Frontend: React / HTML / CSS / JavaScript  
+- Backend: Node.js / Express (if applicable)  
+- Database: SQLite / LocalStorage  
+- Deployment: Netlify / Vercel / Heroku  
+
+---
+
+##  Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install   # or yarn install
+
+---
+
+##  Usage
+
+- start server
+    cd server 
+    npm start
+                              
+- start UI 
+    cd client
+    npm start
+                              
+- then start mysql for database
